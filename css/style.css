@@ -1,0 +1,165 @@
+body{
+    background-color: #f2f3f5;
+    font-family: sans-serif;
+}
+.top-bar{
+    background-color: rgb(11, 11, 49);
+    color: gray;
+}
+.top-bar ul{
+    list-style: none;
+    text-align: right;
+    margin: 0px;
+    padding: 8px;
+    font-size: 12px;
+    color: #596574;
+}
+
+.top-bar li {
+    display: inline;
+}
+.top-bar a {
+    text-decoration: none;
+    background-color: rgb(11, 11, 49);
+    color: #596574;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.branding ul{
+    list-style: none;
+    text-align: right;
+    margin-top: 50px;
+    padding: 5px;
+}
+.branding li{
+    display: inline;
+}
+.branding a{
+    text-decoration: none;
+    background-color: rgb(11, 11, 49);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+.hero h2{
+    color: rgb(11, 11, 49);
+}
+.hero p{
+    color: gray;
+}
+.hero img {
+    width: 100%;
+}
+.threes{
+    margin-bottom: 50px;
+}
+.threes h2{
+    font-size: 35px;
+}
+.grid_4 img{
+    width: 100%;
+    border-radius: 5px;
+}
+.bottom{
+    background: radial-gradient(farthest-side at 334px -800px, #35557b 0%, #0f1821 100%);
+    padding-bottom: 40px;
+}
+.services {
+    padding-left: 0px;
+}
+
+.services ul {
+    list-style-image: url(../media/chat.png);
+}
+.bullet{
+    list-style-image: url(../media/chat.png);
+}
+
+.opportunities ul{
+    padding-left: 0px;
+    list-style-image: url(../media/chat.png);
+}
+.news ul{
+    padding-left: 0px;
+}
+.bottom h2{
+    color: white;
+}
+.bottom li{
+    color: white;
+    padding: 5px;
+}
+.twentyone{
+    font-size: 30px;
+}
+.nine{
+    font-size: 30px;
+}
+.seventeen{
+    font-size: 30px;
+}
+.calendar1{
+    background: #c78436;
+    float: left;
+    margin: 5px;
+    height: 53px;
+    width: 45px;
+    font-size: 13px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-family: sans-serif;
+}
+.calendar2{
+    background: #ca5935;
+    float: left;
+    margin: 5px;
+    height: 53px;
+    width: 45px;
+    font-size: 13px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-family: sans-serif;
+
+}
+.calendar3{
+    background: #cc2a53;
+    float: left;
+    margin: 5px;
+    height: 53px;
+    width: 45px;
+    font-size: 13px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-family: sans-serif;
+}
+.final{
+    background: #0a0f16;
+    width:100%;
+}
+.final p{
+    color: #4d5359;
+    font-size: 12px;
+    height: 55px;
+}
+.button--primary{
+    background: #1e324a;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.branding a:hover{
+    background-color: orange;
+}
+.threes a:hover{
+    background-color: orange;
+}
+.bottom a:hover{
+    background-color: orange;
+}
